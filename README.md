@@ -9,4 +9,5 @@
   + [NYU Professor Scott Galloway](https://www.profgalloway.com/) is named Time's Person of the Year.
   + Maggie Haberman appointed editor-in-chief of Washington Post.
   + [Warren Buffet](https://www.youtube.com/watch?v=FsDYatBvwYI) retires.
-  + 
+  + McDonald's ([$MCD](https://finance.yahoo.com/quote/MCD)) is acquired by Asia-based private equity giant and is taken private. This gives time to restructure debt.
+  + Burger King ([$QRS](https://finance.yahoo.com/quote/QSR)) is acquired by Europe-based private equity firm. 
