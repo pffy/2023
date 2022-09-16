@@ -17,3 +17,6 @@ In 2023:
   + Microsoft introduces next-generation police force protection gear, featuring the HoloLens as a situation-aware mixed reality headset.
   + Amazon starts vertical farming fresh produce in New York City and Paris.
   + Arnold Schwarzenegger says "if you cut off one head, two more shall take its place" in the Marvel Cinematic Universe; the movie trailer alone shatters the all-time views record on YouTube.
+  + Climate change forces many states to pass new tornado and flood insurance laws.
+  + San Francisco Bay Area shut down by blizzard.
+  + 
