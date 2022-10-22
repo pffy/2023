@@ -3,6 +3,8 @@
 In 2023:
 
   + Jack Dorsey [returns as CEO of Twitter](https://www.youtube.com/watch?v=szUEkiRPQwQ).
+  + Governors in western states deploy National Guard troops to quell armed skirmishes over water rights.
+  + Violent dust storms accelerate the [Phase 4 corrosion](https://www.utilityproducts.com/home/article/16003357/transmission-tower-maintenance) of power transmission steel lattice towers. Power outages and steel shortages follow.
   + After winning Super Bowl LVII with the [Tampa Bay Buccaneers](https://www.buccaneers.com/), Tom Brady retires to become an avocado farmer. 
   + Tom Brady announces the National Strategic Avocado Reserve.
   + Elon Musk buys [New York Times](https://www.nytimes.com/).
