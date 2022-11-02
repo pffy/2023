@@ -4,7 +4,7 @@ In 2023:
 
   + Jack Dorsey [returns as CEO of Twitter](https://www.youtube.com/watch?v=szUEkiRPQwQ).
   + Google lays off [50% of its workforce](https://www.youtube.com/watch?v=3OyrX11cMkE).
-  + [JP Morgan](https://finance.yahoo.com/quote/JPM) acquires Bank of America for about $5 per share.
+  + JP Morgan ([$JPM](https://finance.yahoo.com/quote/JPM)) acquires Bank of America for about $5 per share.
   + [NYU Professor Jeff Jarvis](https://buzzmachine.com/) joins faculty at Oxford or Cambridge. 
   + Governors in western states deploy National Guard troops to quell armed skirmishes over water rights.
   + Heavy dust storms accelerate the [Phase 4 corrosion](https://www.utilityproducts.com/home/article/16003357/transmission-tower-maintenance) of power transmission steel lattice towers. Power outages and steel shortages follow.
