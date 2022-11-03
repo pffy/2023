@@ -6,7 +6,7 @@ In 2023:
   + Google lays off [50% of its workforce](https://www.youtube.com/watch?v=3OyrX11cMkE).
   + MacKenzie Scott and Laurene Powell Jobs fund a new digital equity initiative, run by [Alexandria Ocasio-Cortez](https://twitter.com/AOC). The "AOC Foundation" uses its billion-dollar endowment to help new ideas reach audiences more effectively.
   + JP Morgan ([$JPM](https://finance.yahoo.com/quote/JPM)) acquires Bank of America for about $5 per share.
-  + [NYU Professor Jeff Jarvis](https://buzzmachine.com/) joins faculty at Oxford or Cambridge. 
+  + [NYU Professor Jeff Jarvis](https://buzzmachine.com/) joins faculty at either Oxford or Cambridge. 
   + Governors in western states deploy National Guard troops to quell armed skirmishes over water rights.
   + Heavy dust storms accelerate the [Phase 4 corrosion](https://www.utilityproducts.com/home/article/16003357/transmission-tower-maintenance) of power transmission steel lattice towers. Power outages and steel shortages follow.
   + After winning Super Bowl LVII with the [Tampa Bay Buccaneers](https://www.buccaneers.com/), Tom Brady retires to become an avocado farmer. 
