@@ -5,6 +5,8 @@ In 2023:
   + Jack Dorsey [returns as CEO of Twitter](https://www.youtube.com/watch?v=szUEkiRPQwQ).
   + Google lays off [50% of its workforce](https://www.youtube.com/watch?v=3OyrX11cMkE).
   + MacKenzie Scott and Laurene Powell Jobs fund a new digital equity initiative, run by [Alexandria Ocasio-Cortez](https://twitter.com/AOC). The "AOC Foundation" uses its billion-dollar endowment to help new ideas reach audiences more effectively.
+  + YouTube buys radio station to broadcast top influencers on AM/FM radios.
+  + National Public Radio shuts down, after losing federal funding and underwriters.
   + JP Morgan ([$JPM](https://finance.yahoo.com/quote/JPM)) acquires Bank of America for about $5 per share.
   + [NYU Professor Jeff Jarvis](https://buzzmachine.com/) joins faculty at either Oxford or Cambridge. 
   + Governors in western states deploy National Guard troops to quell armed skirmishes over water rights.
