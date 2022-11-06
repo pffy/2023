@@ -26,10 +26,9 @@ In 2023:
   + [Warren Buffet](https://www.youtube.com/watch?v=FsDYatBvwYI) retires.
   + McDonald's ([$MCD](https://finance.yahoo.com/quote/MCD)) is acquired by Asia-based private equity giant and is taken private. This gives time to restructure debt.
   + Burger King ([$QRS](https://finance.yahoo.com/quote/QSR)) is acquired by Europe-based private equity firm. The firm spins off the Whopper into its own burger shop, like Shake Shack or In-N-Out burger.
-  + Airbnb adds mixed-use retail space to rental inventory for pop-up stores.
+  + [Airbnb](https://www.airbnb.com/) adds mixed-use retail space to rental inventory for pop-up stores.
   + Microsoft introduces next-generation police force protection gear, featuring the HoloLens as a situation-aware mixed reality headset.
   + Amazon starts vertical farming fresh produce in New York City and Paris.
-  + Arnold Schwarzenegger says "if you cut off one head, two more shall take its place" in the Marvel Cinematic Universe; the movie trailer alone shatters the all-time views record on YouTube.
+  + Arnold Schwarzenegger says "if you cut off one head, two more shall take its place" in the Marvel Cinematic Universe for the first time; the movie trailer alone shatters the all-time views record on YouTube.
   + Climate change forces many states to pass new tornado and flood insurance laws.
   + San Francisco Bay Area shut down by blizzard.
-  + 
