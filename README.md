@@ -1,8 +1,13 @@
 # Predictions for 2023
 
+The following [predictions](https://www.youtube.com/watch?v=lSPNQ82Sq4E) are the results of economic modeling, machine learning, meaning-making from qualitative research, and when the chances are even -- coin flips. This repo has been archived, and the actual outcomes will be tracked here:
+
+  * https://github.com/pffy/2023-actual
+
 In 2023:
 
   + Jack Dorsey [returns as CEO of Twitter](https://www.youtube.com/watch?v=szUEkiRPQwQ).
+  + The Federal Reserve issues FOMC statement that explains impromptu emergency interest rate hike.
   + Google lays off [50% of its workforce](https://www.youtube.com/watch?v=3OyrX11cMkE).
   + MacKenzie Scott and Laurene Powell Jobs fund a new digital equity initiative, run by [Alexandria Ocasio-Cortez](https://twitter.com/AOC). The "AOC Foundation" uses its billion-dollar endowment to help new ideas reach audiences more effectively.
   + YouTube buys radio station to broadcast top influencers on AM/FM radios.
